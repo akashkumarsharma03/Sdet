@@ -1,0 +1,319 @@
+INTERVIEW QUESTIONS 
+
+Project specific Questions
+
+1.	What was the duration of your project?
+2.	Explain about your project.
+3.	How many testers were their on this project.
+4.	According to you which was the complex part of the project from testing point of view.
+5.	How did you do the testing of your project?
+6.	How many test cases have you designed? How many you wrote in a day?
+7.	How many bugs did you find?
+8.	Tell me any high Severity bugs that you found.
+9.	What happens when the client changes requirements?
+10.	Which tool you used for defect reporting?
+11.	What is the database used for your project.
+12.	In which technology this application is developed?
+
+Company specific Questions
+
+1.	Where are you working currently?
+2.	How that Seed has sent you here for an interview when you are working in the same company.
+3.	Where it is located?
+4.	How many testers and developers are their?
+5.	Are testers and developers sitting at same location?
+6.	What is the hierarchy in testing team?
+7.	Whom do you report to?
+8.	Is this a dummy project?
+9.	How do you come to know about your tasks?
+10.	Are you a permanent employee?
+11.	How long you are working in Seed?
+12.	Can you name some clients of your company?
+
+HR Questions
+
+1.	Introduce yourself.
+2.	What are your strengths?
+3.	What are your weaknesses?
+4.	What you do not like in this world?
+5.	How do you commute?
+6.	Are you a team player?
+7.	How long will you take to join?
+8.	Are you ready to work on contract position?
+9.	Where would you like to see yourself 5 years down the line.
+10.	Are you a permanent employee?
+
+1.	Define what is Software Testing?
+2.	What is difference between Severity and Priority?
+3.	What is difference between Regression and Retesting?
+4.	What is the Role of the Tester?
+5.	How will you convince a developer who is not ready to resolve the bug you have raised?
+6.	What is difference between Debugging and Unit testing?
+7.	Have you done White Box Testing? Do you know what type of bugs you can trace through this type of testing?
+8.	What is the important column in Test case?
+9.	What is the use of any Test Case Management tool?
+10.	Why Testing is necessary?
+11.	What is the Bug Life Cycle?
+12.	How do you decide which test cases to consider for Regression Testing?
+13.	Is testing QA or QC?
+14.	Differentiate between Integration Testing and System Testing.
+15.	Have you participated in User Acceptance Testing (UAT)?
+16.	Have you seen a Test Plan? Who prepares it ?
+17.	What are the various contents of a Test Plan?
+18.	What methods of Black Box Testing you have used?
+19.	Do you know Exploratory Testing?
+20.	What is Prototyping? What are the various types? 
+21.	Define phases of SDLC.
+22.	Which SDLC model your company follows?
+23.	When do we write Stubs?
+24.	What is the use of Driver script?
+25.	What kinds of reviews are conducted during SDLC phase?
+26.	What is the role of Metrics in Testing?
+27.	What are key challenges of Software Testing field?
+28.	Explain your views about Quality.
+29.	What is the advantage of using any bug tracking tool.
+30.	Explain about website Usability testing.
+31.	What are defect attributes?
+32.	What is pesticide paradox?
+33.	Explain V model.
+34.	What is Load and Stress testing, explain with example
+35.	Differentiate between Verification and Validation?
+36.	Explain Boundary Value Analysis with an example.
+37.	What is the difference between Web application and Client Server Application?
+38.	What is Localization testing?
+39.	What is difference between Black box testing and White box testing?
+40.	What is the difference between Authentication and Authorization give an example.
+41.	Other than functionality what else you should test in Web Application?
+42.	How you know that testing is enough?
+43.	How will you test the reports?
+44.	What is compatibility testing?
+45.	If we test the application on IE 8 then is it necessary to test it on IE 7?
+46.	Difference between Smoke & Sanity testing.
+47.	What is the difference between Requirement specification & Functional Specification?
+48.	On what basis you will decide whether all the requirements are covered in the test cases?
+49.	What is Database? Which database you are aware of?
+50.	What is Database Testing?
+51.	What is Cookies? Any idea on Cookies Testing?
+52.	Explain Spiral Model? 
+53.	What are Stored Procedures?
+54.	How many types of Joins are their?
+55.	What are DML and DDL commands give example.
+56.	What is Normalization?
+57.	What is Primary key and Foreign key?
+58.	What is RDBMS?
+59.	What is difference between delete & truncate? 
+60.	What design documents you receive from PM?
+61.	What are documents are created in Design phase?
+62.	What challenges you have faced in testing so far?
+63.	Have you seen our company web site? What are the usability defects you have found?
+64.	Differentiate between Load testing and Stress testing.
+65.	Which documents does the test team submit during testing period?
+66.	How will you test an application without and requirement documents?
+67.	What is windows registry?
+68.	What is Object, multiple Inheritance and Class in OOPS?
+69.	What is Multitasking, Multithreading and Multi processing?
+70.	What is Stack, and Queue in DS?
+71.	Explain STLC.
+72.	What is Functional Testing?
+73.	What activities are done in Inspection.
+74.	What is Deferred Defect?
+75.	In Defect Life cycle, you find that the defect is not fixed but the developer says that it is fixed will you every time tell the Project lead about that?
+76.	What is Equivalence Partitioning?
+77.	How many regression cycles you have participated in?
+78.	Realizing you won't be able to test everything - how do you decide what to test first?
+79.	What is SQA?         
+80.	What are the contents of defect report?
+81.	Explain RTM template.
+82.	What is Big Bang type of testing?
+83.	What is Traceability Matrix & Coverage Matrix?
+84.	What is a fault, failure & defect?
+85.	Which is the efficient method to write (a) test scenario (b) Many test cases?
+86.	What is UAT and Alpha and Beta Testing?
+87.	Explain doubly and singly linked list?
+88.	Explain OOPS features?
+89.	What are the key challenges in testing?
+90.	What is Hot fix?
+91.	Where Exit and Entry Criteria are written in Test Plan? 
+92.	What are different scenarios for verifying Email address? 
+93.	What is the query for update table? 
+94.	If there is mistake in company Logo, what is Priority and Severity Justify your answer? 
+95.	Can Stub/Driver be use as an independent module? 
+96.	Who prepares Test Plan in your organization?
+97.	Where feature to be tested and features not to be tested are written in test plan? 
+98.	What is Test Strategy and Test Approach.
+99.	What is the data flow in your project?
+100.	Where Regression Testing comes in Defect Life Cycle
+101.	What is deference between Integration and System Testing
+102.	Examples of Non-Functional Testing?
+103.	What is difference between QC and QA?
+104.	If 4 modules are there like A, B, C and D. All are dependent on each other. If changes is done to Module C. Will you perform Regression Testing? If yes how many test case you run again?
+105.	How much test cases you wrote in a single day?
+106.	Are you submitting the defects you found each day or submit them when you finish a complete module?
+107.	What is Data Migration Testing? What are the different approaches followed in Data Migration?
+108.	What are broken links?
+109.	What is Closer Report?
+110.	What is System Testing?
+111.	What type of testing should we performed while testing a website
+112.	What is Security Testing? Different aspect we should cover while doing security Testing
+113.	Arrange the following testing types in sequence in which we test any application 
+Functional  Smoke  Integration   System    Sanity   Retesting     Regression
+114.	If same software convert English language PDF file to Spanish language  word file  And some lines are showing the converted data like @#$#$%#$%$#%$% (special Character).  Then is it a functional issue or usability issue.
+115.	If any bug is reproducible only on Testing server and not on Development server, how you make sure that the developer fixes that bug .
+116.	If any bug is reproducible at client side (in production environment) not in the test environment what are the different possibilities that this scenario occurs.
+117.	What is security testing?
+118.	What is Installation Testing?
+119.	What is Application Server? Give example. 
+120.	Have you come across any severe bugs in your application and did you contribute so that it gets resolved.
+121.	Have you ever prepared Test Plan?
+122.	How you define Severity to a Bug?
+123	You are given little understanding of application, how much time will you take to understand it?
+124.	What do you think why software has bugs? 
+125.	Explain error guessing with an example.
+126.	In bug life cycle, who opens the bug?
+127.	What is Compatibility, Multiplatform and Configuration testing?
+128.	What are Session and Cookies and what is difference between them?
+129.	What is the process followed in your company for testing?
+130.	What is Mutation testing?
+131.	Difference between Ad-hoc & Exploratory testing?
+132.	What is Test Suit?
+133.	How you are tracking defects?
+134.	What Qualities does QA Engineer Require?
+135.	What are CMM Levels?
+136.	Does Code review come under white box testing? 
+137.	You have been given a form, how will you test it?
+138.	What is Static and what is Dynamic Web Page? 
+139.	Difference between HTTP and HTTPS? Explain how the data is secured in HTTPS? 
+140.	Have you heard of Agile Methodology? Explain?
+141.	Have you used any Configuration Management tool?
+142.	Do we always need to do regression after retesting?
+143.	What is Web server? Which web servers you know? 
+144.	What is Inter-system testing? Have you done that?
+145.	What is a build?  What is the release?
+146.	What is production server?
+147.	What is Recovery Testing?
+148.	Any disadvantages of V model?
+149.	What are the properties of a good Requirements Document?
+150.	What is Accessibility Testing?
+151.	Write test cases on :
+Chess board, white board, pen, water bottle, elevator, telephone instrument, mobile SMS service, ATM, Ceiling fan  
+
+2017 Selenium Automation Testing Interview questions asked in MNC's 
+Aasked Automation Interview Questions in MNC's
+Company (1)
+1)      Tell me about yourself?
+2)      Tell me Your Roles and Responsibility?
+3)      Have you worked on designing?
+4)      Flow of your framework, Model project?
+5)      Define Encapsulation?
+6)      Difference between method overloading and method overriding?
+7)      Interface and abstract?
+8)      Define Interface?
+9)      Static keyword in java?
+10)   explain “this” keyword?
+11)   Multiple and Multilevel Inheritance.
+12)   Different types of Exceptions.
+13)   Define Checked and Unchecked exception.
+14)   Difference between List and Set.
+15)   What is ArrayList?
+16)   Different types of “wait” in selenium, Describe each with syntax.
+17)   How to handle web based popups?
+18)   What are different types of alert method?
+19)   How to switch from one window to another?
+20)   What is table handle and window handle?
+21)   How to read & write data from excel sheet?
+22)   How to take screenshot in selenium?
+23)   How to highlight a link in selenium?
+24)   What is additional setting and proxy setting in selenium?
+25)   What is Firefox Profile?
+26)   What is Jenkins?
+27)   How to upload data in Jenkins?
+28)   Jar files for logging
+29)   Automation of testing
+30)   Parameterized in TestNG 
+31)   Execute test case parallel in TestNG?
+32)   Can you give some Priority to two test cases?
+33)   Parallel parameter= true? Explain.
+34)   Have you worked on SQL query? What you have done?
+35)   What is Primary Key please explain.
+36)   If there are same multiple entry in the table, how to find Unique element in the table?
+37)   How to get 3rd Highest Salary from employee table?
+38)   How to find any particular date of joining of employee from Employees table, date is in number format then how to change it to character format?
+
+
+
+ Aasked Automation Interview Questions in MNC's
+Company (2) 
+1)      Tell me about yourself?
+2)      What is payroll? Explain about your project with your rolls and responsibility?
+3)      What is Integration testing you performed in your project please explain with scenarios.
+4)      Types of Integration testing.
+5)      What is hybrid Integration testing?
+6)      Explain Top-down and Bottom-up Integration testing.
+7)      What is depth and breadth means in Integration testing?
+8)      In Integration testing which testing performed first?
+9)      Tell me about System Integration testing?
+10)   Have you written any Test Plan?
+11)   Parameter used in creating test plan?
+12)   Why Regression testing is required?
+13)   If fault found who will be originally documented by?
+14)   Have you logged any defect?
+15)   What is V-Model?
+16)   What is end to end testing?
+17)   What is use case?
+18)   Difference between use case and test case?
+19)   What is boundary values analysis?
+20)   What is traceability matric?
+21)   Have you sending any test report?
+22)   What parameter you used to send test report?
+23)   What is spike testing?
+24)   What is soap testing?
+25)   Why Bug occur?
+26)   What is difference between manual and automation testing?
+27)   What is better manual or automation testing?
+28)   Manual testing framework?
+29)   What is execution testing and non-execution testing?
+30)   Any query?
+
+
+ Aasked Automation Interview Questions in MNC's
+Company (3) 
+
+1)         How many Test Cases you have automated till yet?
+2)         How many Test Cases you have executed in regression in current project?
+3)         Total test cases count in regression suite?
+4)         How much time it will take to prepared & execute these 80 test cases of regression test suite
+5)         Did you face any difficulty at the time to preparing Test Suite?
+6)         Did all the test case passed when you execute regression suite?
+7)         Did you got functional or non-functional defect?
+8)         Difference between private and public access modifiers?
+9)         Can private member of class be access outside the class?
+10)     Difference between private and protected?
+11)     How many web pages are opened in system can we count in selenium?
+12)     Difference between find element and find elements?
+13)     What is getWindowHandles();
+14)     What is web based popup and window based popups?
+15)     What is generic function in selenium?
+16)     How many generic function you have written in your current project? Please specify.
+17)     Did you know how to connect to excel sheet through java?
+18)     Do you know what is jenkins?
+19)     Did you performed continue integration in your current project?
+20)     Which framework you have used in your project?
+21)     Have you used TestNG in your project?
+
+
+
+ Aasked Automation Interview Questions in MNC's
+Company (4)
+1)         Tell me about yourself?
+2)         How to read from property file in selenium and its method?
+3)         How to read excel file?
+4)         How to get Row count and Column count in excel file?
+5)         How to read cell data in excel?
+6)         Please explain Xpath.
+7)         How to perform double click on any component?
+8)         Did you perform any Data Base validation using java selenium code?
+9)         Difference between Abstract and Interface.
+10)     Can Interface be extended to another Interface?
+11)     Please give TestNG annotation details description.
+12)     Have you done any Parallel testing execution in selenium TestNG?
+13)     What kind of Report Generation you have done in TestNG? Is it XML, HTML excel report?
